@@ -8,7 +8,7 @@ const Home = () => {
       >
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="max-w-6xl mx-auto px-3 md:px-5 text-white">
-          <h2>This is Home | Travel Guru</h2>
+          <h2 className="font-bebasNeue">This is Home | Travel Guru</h2>
         </div>
       </div>
     </>
